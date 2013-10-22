@@ -5,7 +5,7 @@ git_training
 
 [Introduction To Git Presentation](https://github.com/UW-Hydro/git_training/raw/master/presentation/GitIntro_jhamman.pdf)
 
-The best way learn git is to use it. If you've never used git before, I recomend begining with this short, interactive tutorial: [Try Git](http://try.github.com/)
+The best way learn git is to use it. If you've never used git before, I recommend beginning with this short, interactive tutorial: [Try Git](http://try.github.com/)
 
 Now that you have some idea of what the commands are and the basic workflow, let's do some real world examples.  
 
@@ -21,7 +21,7 @@ There are alot of configuration options in git.  The basics are listed below but
 
 **Setup a Github Account**
 
-Github is a hosting service for git repositories.  Even if you don't use github as your standard remote, I reccomend setting up an account.  [Sign Up For Github](https://github.com/join) 
+Github is a hosting service for git repositories.  Even if you don't use github as your standard remote, I recommend  setting up an account.  [Sign Up For Github](https://github.com/join) 
 
 ## Practice
 Our practice will follow the [Github Bootcamp](https://help.github.com/categories/54/articles), with a few modifications.  
@@ -83,4 +83,4 @@ References and Links:
 
 - [git-scm](http://git-scm.com/) - Git's home page
 - [Github](https://github.com/) - Github home page
-- [Git-Flow](http://nvie.com/posts/a-successful-git-branching-model/) - This is the branching model and workflow that VIC and DHSVM and a good way to think about how branching can help you work more effeciently.  
+- [Git-Flow](http://nvie.com/posts/a-successful-git-branching-model/) - This is the branching model and workflow that VIC and DHSVM and a good way to think about how branching can help you work more efficiently.  
