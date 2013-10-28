@@ -21,7 +21,9 @@ There are alot of configuration options in git.  The basics are listed below but
 
 **Setup a Github Account**
 
-Github is a hosting service for git repositories.  Even if you don't use github as your standard remote, I recommend  setting up an account.  [Sign Up For Github](https://github.com/join) 
+Github is a hosting service for git repositories.  Even if you don't use github as your standard remote, I recommend  setting up an account.  [Sign Up For Github](https://github.com/join)
+
+If you are a student, you are likely eligible for a free "Micro Plan".  This gives you five private repositories for 2 years.  [Apply here.](https://github.com/edu)
 
 ## Practice
 Our practice will follow the [Github Bootcamp](https://help.github.com/categories/54/articles), with a few modifications.  
