@@ -36,6 +36,11 @@ Our practice will follow the [Github Bootcamp](https://help.github.com/categorie
 
     Everyone needs a "Hello-World" repository.  Follow the steps in the Create A Repo tutorial to create your own "Hello-World".
 
+    If you are having trouble pushing to your github repository check to make sure you are pushing to the ssh address, rather than https address.  You will likely need to setup your ssh key here.  
+    Once you have your ssh keys setup, try pushing to the ssh repo address `git@github.com:$USER/hello-world.git`
+
+    You can change the remote address using: `git remote set-url origin git@github.com:$USER/hello-world.git`
+
     *Bonus:  Now that you have that dialed, try repeating those steps for a project you've been working on.* 
 
 3. [Fork A Repo](https://help.github.com/articles/fork-a-repo)
