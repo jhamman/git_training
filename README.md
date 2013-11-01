@@ -53,7 +53,7 @@ Our practice will follow the [Github Bootcamp](https://help.github.com/categorie
 
     b.  Now clone the your fork of the git_training repository to your local machine. i.e.: 
         
-          git clone git@github.com:jhamman/git_training.git
+          git clone git@github.com:$USER/git_training.git
 
        *Note: If you get an ssh error when you try to clone or fetch, check out Github's tutorial on [how to setup ssh keys](https://help.github.com/articles/generating-ssh-keys).*
 
